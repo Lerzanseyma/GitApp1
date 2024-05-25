@@ -12,6 +12,9 @@ public class Runner {
        //versiyon 7
         System.out.println(" ");
 
+        //versiyon 8
+        System.out.println("");
+
 
 
 
